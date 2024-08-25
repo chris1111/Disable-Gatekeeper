@@ -12,7 +12,7 @@
         <key>PayloadIdentifier</key>
         <string>com.chris1111.profile.systempolicy</string>
         <key>PayloadOrganization</key>
-		<string>chris1111</string>
+	<string>chris1111</string>
         <key>PayloadDisplayName</key>
         <string>System Policy Control</string>
         <key>PayloadDescription</key>
@@ -28,7 +28,7 @@
     <key>PayloadIdentifier</key>
     <string>com.chris1111.profile.systempolicy</string>
     <key>PayloadOrganization</key>
-	<string>chris1111</string>
+    <string>chris1111</string>
     <key>PayloadRemovalDisallowed</key>
     <false />
     <key>PayloadScope</key>
