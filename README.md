@@ -10,8 +10,14 @@ Download ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeepe
 
 View Video Install Disable-Gatekeeper ⇩
 
+[
+](https://youtu.be/dcMujsWGUxo)
+
+[![Modular Image Creation](https://github.com/user-attachments/assets/68f65560-03ae-4dfe-908f-554e30e2906b)](https://youtu.be/dcMujsWGUxo)
+
+
 View Video Uninstall Disable-Gatekeeper ⇩
 
-
+[![Modular Image Creation](https://github.com/user-attachments/assets/68f65560-03ae-4dfe-908f-554e30e2906b)](https://youtu.be/EJttKJnIlAQ)
 
  
