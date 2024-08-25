@@ -21,4 +21,7 @@ View Video Uninstall Disable-Gatekeeper ⇩
 
 [![Modular Image Creation](https://github.com/user-attachments/assets/68f65560-03ae-4dfe-908f-554e30e2906b)](https://youtu.be/EJttKJnIlAQ)
 
- 
+After uninstalling the profiles, reset to `App Store & Known Developers` Then `Reboot macOS` 
+
+![Screenshot Reset](https://github.com/user-attachments/assets/55f81b78-0377-47a1-b0c5-dcad31511e8c)
+
