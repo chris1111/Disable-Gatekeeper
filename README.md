@@ -1,4 +1,5 @@
 # Disable-Gatekeeper in macOS Sequoia 15
+View [Disable-Gatekeeper.mobileconfig](https://github.com/chris1111/Disable-Gatekeeper/blob/main/Disable-Gatekeeper.mobileconfig)
 
 Credit: [hoishing](https://gist.github.com/hoishing/cadd905b095e15531467255b537f6906)
 
