@@ -1,8 +1,6 @@
 # Disable-Gatekeeper in macOS Sequoia 15
 View [Disable-Gatekeeper.mobileconfig](https://github.com/chris1111/Disable-Gatekeeper/blob/main/Disable-Gatekeeper.mobileconfig)
 
-Credit: [hoishing](https://gist.github.com/hoishing/cadd905b095e15531467255b537f6906)
-
 ### Starting from macOS 15, sudo spctl --master-disable is no longer supported to disable Gatekeeper.
 
 - We need to disable it with Configuration Profiles.
@@ -21,3 +19,4 @@ After uninstalling the profiles, reset to `App Store & Known Developers` Then `R
 
 ![Screenshot Reset](https://github.com/user-attachments/assets/55f81b78-0377-47a1-b0c5-dcad31511e8c)
 
+Thanks to [Apple](https://it-training.apple.com/tutorials/deployment/dm105/), [hoishing](https://gist.github.com/hoishing/cadd905b095e15531467255b537f6906) 
