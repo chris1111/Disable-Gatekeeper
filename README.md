@@ -15,7 +15,7 @@ View Video Install Disable-Gatekeeper ⇩
 
 After runing the script; Double click to install Disable Gatekeeper
 
-![Install](https://github.com/user-attachments/assets/d09dae59-b109-4737-ab6c-101f461a547d)
+![Install](https://github.com/user-attachments/assets/097b7f35-0e24-4853-8273-435f0b0a01d4)
 
 
 View Video Uninstall Disable-Gatekeeper ⇩
