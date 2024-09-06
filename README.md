@@ -3,6 +3,8 @@ View [Disable-Gatekeeper.mobileconfig](https://github.com/chris1111/Disable-Gate
 
 View [Install Disable-Gatekeeper Script](https://github.com/chris1111/Disable-Gatekeeper/blob/main/Install%20Disable-Gatekeeper.scptd/Contents/Resources/Scripts/main.scpt)
 
+View [Building your own Notarize App](https://github.com/chris1111/Disable-Gatekeeper/blob/main/Create%20App.md)
+
 ### Starting from macOS 15, sudo spctl --master-disable is no longer supported to disable Gatekeeper.
 
 - We need to disable it with Configuration Profiles.
