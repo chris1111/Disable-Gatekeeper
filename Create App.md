@@ -6,6 +6,7 @@ git clone https://github.com/chris1111/Disable-Gatekeeper.git && cd $HOME/Disabl
 ```
 
 
+![Build](https://github.com/user-attachments/assets/d4cc52af-90ea-4cb8-80e7-916f9805b62b)
 
 
-![Build](https://github.com/user-attachments/assets/e6f51baa-18f5-4a5b-8a4f-8cda857fb197)
+
