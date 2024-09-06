@@ -1,4 +1,4 @@
-Building Applications ⬇︎
+Building Sign Applications to run locally ⬇︎
 
 - [x] `Building:`
 ```bash
