@@ -7,7 +7,7 @@ View [Building your own Notarize App](https://github.com/chris1111/Disable-Gatek
 
 ### Starting from macOS 15, sudo spctl --master-disable is no longer supported to disable Gatekeeper.
 
-- We need to disable it with Configuration Profiles.
+- You can disable it with Configuration Profiles.
 
 Download ➤ [Disable-Gatekeeper](https://github.com/chris1111/Disable-Gatekeeper/raw/main/Install%20Disable-Gatekeeper.zip)
 
